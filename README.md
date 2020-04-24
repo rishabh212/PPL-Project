@@ -18,37 +18,32 @@ Files:-
 
 Input File:-
 
-prog.c
+prog.c:-
 
-It contains the c code to be sliced
+1.	It contains the c code to be sliced
 
-Line number starts from zero
+2.	Line number starts from zero
 
-Closing Curly bracket should always be in a new line
+3.	Closing Curly bracket should always be in a new line
 
-Opening Curly brackets should be in the same line as the corresponding conditional or loop statement.
+4.	Opening Curly brackets should be in the same line as the corresponding conditional or loop statement.
 
-Example:-
+	Example:-
 
-		if(x>y){        // opening bracket in the same line
-		
-		x++;
-		
-		}                 // closing bracket in a new line
-		
-		else{
-		
-		y++;
-		
+		if(x>y){        // opening bracket in the same line		
+		x++;		
+		}                 // closing bracket in a new line		
+		else{		
+		y++;		
 		}
 		
-The code is suitable for basic properties as told.
+5.	The code is suitable for basic properties as told.
+
 
 
 Main File:-
 
-ppl.py
-
+ppl.py:-
 It contains the python code for slicing for a given line number and variable 
 
 task2.py
