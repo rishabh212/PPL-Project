@@ -4,9 +4,7 @@ Team details
 Group No:- 5
 
 Ravi Kishan  1701CS39
-
 Shrish Chandra Sharma 1701CS58
-
 Vivek Kumar Shaw 1701CS55
 
 
@@ -44,11 +42,14 @@ prog.c:-
 Main File:-
 
 ppl.py:-
+
 It contains the python code for slicing for a given line number and variable 
 
-task2.py
+task2.py:-
 
 It contains code to find all possible slices and output in a file
+
+
 
 Output File:- 
 
